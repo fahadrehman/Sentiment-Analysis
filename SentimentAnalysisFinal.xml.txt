@@ -1,0 +1,9 @@
+<publishData>
+  <publishProfile
+    publishUrl="https://fahadrehman-001-site1.myasp.net:8172/msdeploy.axd"
+    msdeploySite="fahadrehman-001-site1"
+    destinationAppUrl="http://fahadrehman-001-site1.myasp.net/"
+    profileName="Default Settings"
+    publishMethod="MSDeploy"
+    userName="ifc\fahadrehman-001" />
+</publishData>
